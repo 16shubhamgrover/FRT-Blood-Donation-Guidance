@@ -14,3 +14,5 @@ The requirements section will help in knowing the current estimate of the blood 
 
 
 This project aims to make people aware of the blood donation and provide them with correct information, and inspire for blood donation, so they can act responsibly.
+
+Project: https://salmon-dune-05cadb810.1.azurestaticapps.net/
